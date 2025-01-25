@@ -40,3 +40,21 @@ This repository contains a Jupyter Notebook that demonstrates the implementation
 
 ### Description  
 The notebook provides a hands-on approach to understanding the perceptron learning rule. It demonstrates how the perceptron updates its weights to learn and distinguish between letter patterns, making it a great resource for beginners in computational intelligence and machine learning.  
+
+
+
+
+## Fashion MNIST Clustering with Self-Organizing Maps (SOM)
+
+This repository demonstrates how to use a Self-Organizing Map (SOM) to cluster images from the Fashion MNIST dataset. The project explores unsupervised learning techniques to identify patterns and group similar items of clothing, shoes, and accessories.
+
+### Features
+- **Dataset**: Fashion MNIST, a dataset of 28x28 grayscale images of 10 clothing categories.
+- **Model**: Implementation of a Self-Organizing Map for clustering.
+- **Preprocessing**: Image normalization and feature scaling.
+- **Visualization**: Results include cluster maps and insights into the learned representations.
+
+### Prerequisites
+- Python 3.x
+- Libraries: `numpy`, `matplotlib`, `tensorflow`, `minisom`
+
