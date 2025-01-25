@@ -11,9 +11,32 @@ This repository contains a Jupyter Notebook that demonstrates the implementation
 - Implementation of the Hebbian learning rule.  
 - Pattern recognition for binary inputs (A and B).  
 - Visualizations to understand the learning process.  
-- Beginner-friendly explanations and code structure.  
+- Beginner-friendly explanations and code structure.
 
 ### Requirements  
 - Python 3.x  
 - Jupyter Notebook  
-- Libraries: `numpy` 
+- Libraries: `numpy`
+
+### Description
+- The notebook uses Hebb's rule to train a simple neural network. The model learns to distinguish between two predefined patterns, A and B, and provides a foundational understanding of unsupervised learning techniques.
+
+
+
+## Identifying Letters with Perceptron Neural Network  
+
+This repository contains a Jupyter Notebook that demonstrates the implementation of a Perceptron Neural Network to identify and classify letter patterns. The notebook introduces the perceptron learning algorithm, training for binary classification, and the evaluation of its accuracy in recognizing specific letter patterns.  
+
+### Key Features  
+- **Perceptron Algorithm**: Implementation of a simple single-layer perceptron for binary classification.  
+- **Letter Recognition**: Training the network to identify specific letters using binary patterns.  
+- **Visualization**: Includes step-by-step explanations and visual representations of results.  
+
+### Requirements  
+- Python 3.x  
+- Jupyter Notebook  
+- Libraries: `numpy`, `matplotlib`  
+ 
+
+### Description  
+The notebook provides a hands-on approach to understanding the perceptron learning rule. It demonstrates how the perceptron updates its weights to learn and distinguish between letter patterns, making it a great resource for beginners in computational intelligence and machine learning.  
