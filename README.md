@@ -2,21 +2,18 @@
 This repository contains solutions and implementations of fundamental computational intelligence exercises, focusing on core neural network models. Each exercise is designed to help understand and implement basic concepts in computational intelligence.
 
 
-Here’s a concise README specifically for the **"Identifying A and B with Hebb Neural Network"** file:  
 
----
-
-# Identifying A and B with Hebb Neural Network  
+## Identifying A and B with Hebb Neural Network  
 
 This repository contains a Jupyter Notebook that demonstrates the implementation of a Hebbian Neural Network to identify and classify two patterns, A and B. The notebook showcases the fundamental concepts of Hebbian learning with step-by-step explanations and practical examples.  
 
-## Features  
+### Features  
 - Implementation of the Hebbian learning rule.  
 - Pattern recognition for binary inputs (A and B).  
 - Visualizations to understand the learning process.  
 - Beginner-friendly explanations and code structure.  
 
-## Requirements  
+### Requirements  
 - Python 3.x  
 - Jupyter Notebook  
 - Libraries: `numpy` 
