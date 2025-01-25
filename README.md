@@ -56,5 +56,6 @@ This repository demonstrates how to use a Self-Organizing Map (SOM) to cluster i
 
 ### Prerequisites
 - Python 3.x
+- Jupyter Notebook  
 - Libraries: `numpy`, `matplotlib`, `tensorflow`, `minisom`
 
